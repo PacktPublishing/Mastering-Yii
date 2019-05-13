@@ -5,12 +5,12 @@
 
 This is the code repository for [Mastering Yii](https://www.packtpub.com/web-development/mastering-yii?utm_source=github&utm_medium=repository&utm_campaign=9781785882425), published by Packt.
 
-**Advance your modern web application development skills with Yii Framework 2 **
+**Advance your modern web application development skills with Yii Framework 2**
 
 ## What is this book about?
 The successor of Yii Framework 1.1, Yii 2 is a complete rewrite of Yii Framework, one of the most popular PHP 5 frameworks around for making modern web applications. The update embraces the best practices and protocols established with newer versions of PHP, while still maintaining the simple, fast, and extendable behavior found in its predecessor.n
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Explore Yii2’s conventions and learn how to properly configure Yii2
 * Create both web and console applications
 * Reduce development time by learning to create classes automatically with Gii, Yii2’s automatic code generation tool
