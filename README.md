@@ -52,7 +52,7 @@ With the following software and hardware list you can run all code files present
 
 * Yii Project Blueprints [[Packt]](https://www.packtpub.com/web-development/yii-project-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781783287734) [[Amazon]](https://www.amazon.com/dp/178328773X)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Charles R. Portwood II**
 has over 10 years of experience developing modern web applications and is well versed in integrating PHP with native mobile applications. An avid proponent of Yii Framework and open source software, Charles has contributed multiple guides, extensions, and applications to the Yii community. In addition to being a programmer, he is also a Linux system administrator. 
 
