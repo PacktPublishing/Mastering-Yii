@@ -36,7 +36,7 @@ The code will look like the following:
 **Following is what you need for this book:**
 This book is for Yii Framework developers who want to quickly master the advanced functions available in Yii 2. This book assumes some familiarity with Yii2, PHP 5, and HTML5.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 
 ### Software and Hardware List
 
@@ -57,7 +57,7 @@ With the following software and hardware list you can run all code files present
 has over 10 years of experience developing modern web applications and is well versed in integrating PHP with native mobile applications. An avid proponent of Yii Framework and open source software, Charles has contributed multiple guides, extensions, and applications to the Yii community. In addition to being a programmer, he is also a Linux system administrator. 
 
 
-## Other books by the authors
+## Another book by the author
 * [Yii Project Blueprints](https://www.packtpub.com/web-development/yii-project-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781783287734)
 
 
